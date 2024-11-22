@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Felix-hub20
 - 👀 I’m interested in . programming 
-- 🌱 I’m currently learning websites developing 
+- 🌱 I’m a software engineer 
 - 💞️ I’m looking to collaborate on website 
 - 📫 How to reach me I am from Ghana and you can contact me on +233543896949 or adufelix03@gmail.com
 - 😄 Pronouns: ...
