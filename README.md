@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:1f6feb&height=220&section=header&text=Felix%20Adu&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:1f6feb&height=220&section=header&text=Felix%20Adu&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Web%20%7C%20Desktop%20%7C%20Cross-Platform%20Developer&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;PHP+%7C+JavaScript+%7C+Python+%7C+C%23+%7C+Java;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Web+%7C+Desktop+%7C+Cross-Platform;PHP+%7C+JavaScript+%7C+Python+%7C+C%23+%7C+Java;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,13 +10,13 @@
 
 ## 🚀 About Me
 
-Hey there! I'm **Felix Adu**, a Full-Stack Developer from **Ghana**. I build scalable web applications and love integrating AI into real-world solutions.
+Hey there! I'm **Felix Adu**, a Software Developer from **Ghana**. I build web applications, desktop software, and cross-platform solutions, with a passion for integrating AI into real-world products.
 
-- 🎯 **Currently working on:** Building scalable web applications & AI-powered tools
+- 🎯 **Currently working on:** Web, desktop & cross-platform applications with AI integration
 - 💻 **Languages:** PHP, JavaScript, Python, C#, Java, HTML/CSS
-- 🛠️ **Frameworks:** Laravel, Node.js, React, Bootstrap
-- 🌱 **Interests:** Web Development, AI Integration, EdTech
-- 💬 **Ask me about:** Web Development, API Design, Database Architecture, AI Integration
+- 🛠️ **Frameworks:** Laravel, Node.js, React, Bootstrap, .NET, JavaFX
+- 🌱 **Interests:** Web Development, Desktop Apps, Cross-Platform Development, AI Integration, EdTech
+- 💬 **Ask me about:** Web & Desktop Development, Cross-Platform Apps, API Design, Database Architecture, AI Integration
 - ⚡ **Fun fact:** I turn coffee into code ☕
 
 ---
