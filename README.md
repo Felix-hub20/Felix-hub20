@@ -10,22 +10,14 @@
 
 ## 🚀 About Me
 
-```python
-class FelixAdu:
-    def __init__(self):
-        self.role       = "Full-Stack Developer"
-        self.location   = "Ghana"
-        self.languages  = ["PHP", "JavaScript", "Python", "C#", "Java", "HTML/CSS"]
-        self.frameworks = ["Laravel", "Node.js", "React", "Bootstrap"]
-        self.interests  = ["Web Development", "AI Integration", "EdTech"]
-        self.fun_fact   = "I turn coffee into code ☕"
+Hey there! I'm **Felix Adu**, a Full-Stack Developer from **Ghana**. I build scalable web applications and love integrating AI into real-world solutions.
 
-    def currently_working_on(self):
-        return "Building scalable web applications & AI-powered tools"
-
-    def ask_me_about(self):
-        return ["Web Development", "API Design", "Database Architecture", "AI Integration"]
-```
+- 🎯 **Currently working on:** Building scalable web applications & AI-powered tools
+- 💻 **Languages:** PHP, JavaScript, Python, C#, Java, HTML/CSS
+- 🛠️ **Frameworks:** Laravel, Node.js, React, Bootstrap
+- 🌱 **Interests:** Web Development, AI Integration, EdTech
+- 💬 **Ask me about:** Web Development, API Design, Database Architecture, AI Integration
+- ⚡ **Fun fact:** I turn coffee into code ☕
 
 ---
 
