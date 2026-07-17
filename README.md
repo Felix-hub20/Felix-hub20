@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:1f6feb&height=220&section=header&text=Felix%20Adu&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;PHP+%7C+JavaScript+%7C+Python;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;PHP+%7C+JavaScript+%7C+Python+%7C+C%23+%7C+Java;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@ class FelixAdu:
     def __init__(self):
         self.role       = "Full-Stack Developer"
         self.location   = "Ghana"
-        self.languages  = ["PHP", "JavaScript", "Python", "HTML/CSS"]
+        self.languages  = ["PHP", "JavaScript", "Python", "C#", "Java", "HTML/CSS"]
         self.frameworks = ["Laravel", "Node.js", "React", "Bootstrap"]
         self.interests  = ["Web Development", "AI Integration", "EdTech"]
         self.fun_fact   = "I turn coffee into code ☕"
@@ -36,6 +36,8 @@ class FelixAdu:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
